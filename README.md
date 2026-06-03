@@ -77,7 +77,10 @@ Mentored graduate and exchange students into peer-reviewed research outcomes.
 
 ## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ouseph444&show_icons=true&theme=tokyonight&hide_border=true&bg_color=061B3A&title_color=FFFFFF&text_color=EAF2FF&icon_color=60A5FA" alt="GitHub stats" width="410" />
+<img align="right"
+     src="https://github-readme-stats.vercel.app/api?username=ouseph444&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+     alt="GitHub Stats"
+     width="410" />
 
 - **Current Focus:** Open to new roles in **Data Science**, **Predictive Modeling**, **Machine Learning**, and **Quantitative Analytics**
 - **Academic Background:** Ph.D. in Physics from **National Tsing Hua University**, Taiwan
