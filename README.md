@@ -51,7 +51,7 @@ I bring 5+ years of daily experience with **Python, Linux, high-performance comp
 <div align="center">
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ouseph444&theme=github-dark-blue&hide_border=true&border_radius=10&background=0d1117" width="400" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ouseph444&theme=github_dark" width="800" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ouseph444&theme=github_dark" width="800"/>
 </div>
 ---
 
