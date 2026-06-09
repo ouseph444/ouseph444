@@ -49,8 +49,6 @@ I bring 5+ years of daily experience with **Python, Linux, high-performance comp
 ## 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouseph444&show_icons=true&theme=transparent&hide_border=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&icon_color=58a6ff" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouseph444&layout=compact&theme=transparent&hide_border=true&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&icon_color=58a6ff" width="350" alt="Top Languages" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ouseph444&theme=github-dark-blue&hide_border=true&border_radius=10&background=0d1117" width="400" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ouseph444&theme=github_dark" width="800" alt="Profile Details" />
