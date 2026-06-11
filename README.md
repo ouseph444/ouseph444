@@ -38,7 +38,8 @@
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
-## 🧬 About Me
+ 
+## About Me
  
 I am a **data scientist and physicist** whose work sits at the exact intersection of mathematics, computation, and discovery.
  
@@ -56,25 +57,6 @@ Five-plus years of deep Linux, Python, and HPC experience refined across interna
 </td>
 </tr>
 </table>
-
-## About Me
-
-I am a **data scientist and Ph.D. physicist** specializing in statistical inference, machine learning, numerical modeling, and large-scale scientific computing.
-
-My work sits at the intersection of **data, mathematics, and discovery**: extracting weak signals from noisy multi-terabyte datasets, building reproducible computational pipelines, designing interpretable visualizations, and translating complex models into clear, decision-ready insight.
-
-I bring 5+ years of daily experience with **Python, Linux, high-performance computing, statistical modeling, and research-grade analytics**, developed across international collaborations in Taiwan, Korea, India, Australia, the USA, China, and Europe.
-
-> “From the fundamental laws of the universe to the patterns inside your data, I enjoy finding structure where the signal is hidden.”
-
----
-## 📊 GitHub Dashboard
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ouseph444&theme=github-dark-blue&hide_border=true&border_radius=10&background=0d1117" width="600" alt="GitHub Streak" />
-</div>
-
 
 ## Current Focus
 
