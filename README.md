@@ -35,6 +35,28 @@
 
 ---
 
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+## 🧬 About Me
+ 
+I am a **data scientist and physicist** whose work sits at the exact intersection of mathematics, computation, and discovery.
+ 
+My training in high-energy physics gave me a daily diet of multi-terabyte simulated datasets, likelihood surfaces, and Bayesian posteriors — skills I now bring to applied analytics, predictive modelling, and quantitative research across any domain where the signal is buried in the noise.
+ 
+Five-plus years of deep Linux, Python, and HPC experience refined across international labs in **Taiwan · Korea · India · Australia · USA · China · Europe**.
+ 
+> *"From the fundamental laws of the universe to the patterns in your data — I find structure where the signal is hidden."*
+ 
+</td>
+<td width="42%" align="center" valign="middle">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ouseph444&theme=github-dark-blue&hide_border=true&border_radius=12&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=64748b&dates=475569" width="100%" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=ouseph444&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=94a3b8&rank_icon=github" width="100%" alt="GitHub Stats" />
+</td>
+</tr>
+</table>
+
 ## About Me
 
 I am a **data scientist and Ph.D. physicist** specializing in statistical inference, machine learning, numerical modeling, and large-scale scientific computing.
