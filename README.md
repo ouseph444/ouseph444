@@ -215,8 +215,9 @@ My research background gives me a strong foundation in **mathematical reasoning,
 
 | Period | Role / Degree | Institution |
 |---|---|---|
-| **2025** | Senior Visiting Research Scientist | University of Adelaide, Australia |
-| **2024–2025** | Senior Research Scientist | Seoul National University of Science & Technology, Korea |
+| **2026–Present** | Affiliated Researcher | National Tsing Hua University, Taiwan |
+| **2025** | Visiting Research Fellow  | University of Adelaide, Australia |
+| **2024–2025** | Postdoctoral Fellow | Seoul National University of Science & Technology, Korea |
 | **2019–2024** | Ph.D. in Physics / Doctoral Researcher | National Tsing Hua University, Taiwan |
 | **2016–2018** | M.Sc. in Physics | Indian Institute of Technology Indore, India |
 | **2012–2015** | B.Sc. in Physics | University of Kerala, India |
